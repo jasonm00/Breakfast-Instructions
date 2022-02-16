@@ -46,3 +46,5 @@ don't pour neatly).
 
 You have now made Corn Flakes! Please clean up when you are done and
 please be careful regarding my allergies.
+
+{% include footer.md %}

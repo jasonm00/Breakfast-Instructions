@@ -75,3 +75,5 @@ how to clean dishes. Please clean the dishes...
 
 You have now successfully made pigs in a blanket! Please remember to
 clean up when you are finished.
+
+{% include footer.md %}

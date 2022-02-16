@@ -64,3 +64,5 @@ stove. Those are Stevo's. He does not like to clean them.*
 15. Transfer eggs from pan to plate
 
 You have now made scrambled eggs! Please clean up when done.
+
+{% include footer.md %}
