@@ -15,5 +15,5 @@ can.
 * [How to Make Pigs in a Blanket (NOT VEGAN)](pigs-in-a-blanket.md)
 * [How to Make Scrambled Eggs (NOT VEGAN)](scrambled-eggs.md)
 * [How to Make Corn Flakes (VEGAN)](corn-flakes.md)
-* [How to Make Avocado French Toast (VEGAN)](avocado-french-toast.md)
+* [How to Make Avocado French Toast (VEGAN)](aft2.md)
 * [References](references.md)
