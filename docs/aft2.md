@@ -63,4 +63,4 @@ and slice up an avocado.
 
 You have just made avocado toast! Please clean up when done.
 
-Back to [the home page](index.html)
+{% include footer.md %}
